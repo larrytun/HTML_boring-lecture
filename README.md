@@ -31,6 +31,6 @@ Atom_
 
 ### License
 
-Copyright (c) 2016 **_Andrew Merrell, Brian Dutz and Larry Tunseth_**
+Copyright (c) 2016 **_Ayana Powell and Larry Tunseth_**
 
 This web page is licenced under the MIT license.
